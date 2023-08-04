@@ -10,6 +10,8 @@ public class CutOperation {
 		
 		//아무튼 코딩임
 		
+
+
 	}
 	
 }
