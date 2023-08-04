@@ -8,6 +8,8 @@ public class CutOperation {
 		
 		System.out.println("hellow world");
 		
+		//아무튼 코딩임
+		
 	}
 	
 }
