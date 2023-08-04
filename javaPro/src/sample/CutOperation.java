@@ -7,7 +7,9 @@ public class CutOperation {
 		//막대기 자르기
 		
 		System.out.println("hellow world");
-		
+
+
+		//에라모르겠당
 	}
 	
 }
